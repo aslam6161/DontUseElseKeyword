@@ -1,0 +1,14 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/bin
+/obj
+/bin/Debug
+/packages
+
+
+/.vs/DontUseElseKeyword/v16
+/.vs/DontUseElseKeyword/config
+/.vs/slnx.sqlite
